@@ -1,2 +1,1 @@
-This is my first GitHub Pages site.  
-🔗 Live demo: https://rihabd06.github.io/portfolio-site/
+Different projects that show the application of Neural Networks.
